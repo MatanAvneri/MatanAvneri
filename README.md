@@ -14,7 +14,7 @@
 ### Glad to see you here!  
 The gist: I'm a full-stack engineer, highly experienced in react and NodeJS. 
 
-With more than 5 years under my belt as an R&D team leader, I've been successful building large scale and complex front-end systems from scratch. I pride myself in high quality results and helping my team members grow.
+With more than 10 years under my belt as an R&D team leader, I've been successful building large scale and complex front-end systems from scratch. I pride myself in high quality results and helping my team members grow.
   
   
 
